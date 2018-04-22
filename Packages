@@ -1,0 +1,17 @@
+Package: repo.biteyourapple.net.iconoclasm
+Version: 1.11
+Architecture: iphoneos-arm
+Pre-Depends: mobilesubstrate, gsc.armv7
+Depends: firmware (>= 4.3), preferenceloader, com.chpwn.iconsupport (>> 1.7.7)
+Conflicts: net.r-ch.fcsb, repo.biteyourapple.net.fiveirows, com.touchmania.fiveirows, com.touchmania.fiveirowsnorm
+Filename: ./iconoclasm_1.11_iphoneos-arm.deb
+Size: 66094
+MD5sum: 5467e125c2ed15ad77b0b76815e8fc20
+SHA1: 8fcd27c5cc4dc3497aba6191b4b2134c86396235
+SHA256: 06a79b9f9a1b8d06af007e759028238d86990ca68edcae5cb9ca6be5c50d0992
+Section: BYA Apps
+Description: Easily customizable icon layout framework.
+Author: BYA Repository
+Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=iconoclasm
+Name: Iconoclasm
+
